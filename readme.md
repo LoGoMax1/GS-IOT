@@ -36,6 +36,10 @@ Quando detectado, o sistema exibe uma mensagem de alerta na tela:
     SINAL DE PEDIDO DE AJUDA DETECTADO ⚠
 
 ▶️ Como Executar o Projeto
+clone o repositorio: https://github.com/LoGoMax1/GS-IOT
+
+📹 Vídeo Demonstrativo
+https://www.youtube.com/watch?v=MRJVS_lCKpA&ab_channel=LorenzoGomes
 
 
 👥 Integrantes do Grupo
